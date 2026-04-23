@@ -1,5 +1,5 @@
 <p>
-  <i>"git commit -m "pushing progress, not perfection"</i>
+  <i>git commit -m "pushing progress, not perfection"</i>
 </p>
 
 ---
